@@ -1,0 +1,1 @@
+This repository contains the code and analysis pipelines for our comprehensive study on the epigenetic mechanisms underlying Metabolic Dysfunction-Associated Steatohepatitis (MASH). Using a non-human primate model that closely recapitulates human pathophysiology, we employed an integrative multi-omics approach to systematically map epigenetic alterations in MASH.
